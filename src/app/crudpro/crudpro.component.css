@@ -1,0 +1,9 @@
+.card
+{
+    width: 500px;
+}
+.row
+{
+    display:flex;
+    gap: 10px;
+}
